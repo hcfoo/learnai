@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "sun-to-home",
+    "title": "From Sun to Home Electricity",
+    "question": "How does sunlight become useful electricity at home?",
+    "left": [
+      "Sun",
+      "Solar radiation"
+    ],
+    "centre": [
+      "Solar panels",
+      "Photovoltaics",
+      "Electricity generation"
+    ],
+    "right": [
+      "Electricity grid",
+      "Homes",
+      "Lower carbon emissions"
+    ],
+    "explanation": "This pathway shows how solar energy is converted into electricity, connected to the grid and used in buildings.",
+    "challenge": "Explain why solar panels alone are not enough without grids, storage or smart energy management."
+  },
+  {
+    "slug": "wind-to-city",
+    "title": "From Wind to City Power",
+    "question": "How does moving air support cleaner electricity for cities?",
+    "left": [
+      "Wind",
+      "Kinetic energy"
+    ],
+    "centre": [
+      "Wind turbines",
+      "Generators",
+      "Electricity generation"
+    ],
+    "right": [
+      "Electricity grid",
+      "Urban electricity use",
+      "Reduced emissions"
+    ],
+    "explanation": "This pathway shows how kinetic energy from wind can become electrical power that supports urban demand.",
+    "challenge": "Compare wind energy with solar energy. What makes each one stronger or weaker in different places?"
+  },
+  {
+    "slug": "coal-to-climate",
+    "title": "From Coal to Climate Change",
+    "question": "How does coal use contribute to climate change?",
+    "left": [
+      "Coal",
+      "Chemical energy"
+    ],
+    "centre": [
+      "Coal power plant",
+      "Combustion",
+      "Electricity generation"
+    ],
+    "right": [
+      "Carbon emissions",
+      "Greenhouse effect",
+      "Climate change"
+    ],
+    "explanation": "This pathway helps students trace the cause-and-effect chain from fossil fuel use to environmental impact.",
+    "challenge": "Explain why this is not only a science issue, but also a social and policy issue."
+  },
+  {
+    "slug": "battery-supports-renewables",
+    "title": "Why Batteries Matter",
+    "question": "Why does battery storage matter in renewable energy systems?",
+    "left": [
+      "Solar energy",
+      "Wind energy"
+    ],
+    "centre": [
+      "Battery storage",
+      "Stored electricity",
+      "Demand balancing"
+    ],
+    "right": [
+      "Reliable supply",
+      "Grid stability",
+      "Energy transition"
+    ],
+    "explanation": "This pathway shows why storage helps match renewable supply with real energy demand.",
+    "challenge": "Describe one situation where renewable energy would be wasted without storage."
+  },
+  {
+    "slug": "plant-to-food-chain",
+    "title": "From Sunlight to Food Chains",
+    "question": "How does solar energy enter ecosystems?",
+    "left": [
+      "Sun",
+      "Solar radiation"
+    ],
+    "centre": [
+      "Photosynthesis",
+      "Plant growth",
+      "Stored chemical energy"
+    ],
+    "right": [
+      "Food chains",
+      "Ecosystem energy flow",
+      "Life on Earth"
+    ],
+    "explanation": "This pathway links energy systems in nature to sustainability and ecology.",
+    "challenge": "Explain why photosynthesis is one of the most important energy processes on Earth."
+  },
+  {
+    "slug": "ev-system",
+    "title": "Electric Vehicles in the Wider System",
+    "question": "Why do electric vehicles depend on the wider energy system?",
+    "left": [
+      "Electricity",
+      "Battery materials"
+    ],
+    "centre": [
+      "Electric vehicles",
+      "Charging systems",
+      "Battery storage"
+    ],
+    "right": [
+      "Transport energy",
+      "Lower air pollution",
+      "Depends on cleaner grids"
+    ],
+    "explanation": "This pathway shows that electric vehicles are part of a larger energy transition, not a stand-alone solution.",
+    "challenge": "Why do electric vehicles only become truly low-carbon when the electricity system becomes cleaner too?"
+  },
+  {
+    "slug": "school-energy-plan",
+    "title": "A Sustainable School Energy Plan",
+    "question": "How can a school become more energy sustainable?",
+    "left": [
+      "Energy demand",
+      "Building use"
+    ],
+    "centre": [
+      "Energy efficiency",
+      "Solar panels",
+      "Smart monitoring"
+    ],
+    "right": [
+      "Lower bills",
+      "Lower emissions",
+      "Student action"
+    ],
+    "explanation": "This pathway turns energy learning into a practical design challenge for students.",
+    "challenge": "Choose one building improvement and explain how it reduces both cost and environmental impact."
+  },
+  {
+    "slug": "data-centres",
+    "title": "Digital Life and Energy Use",
+    "question": "How does digital life depend on energy systems?",
+    "left": [
+      "Internet use",
+      "Cloud services"
+    ],
+    "centre": [
+      "Data centres",
+      "Cooling systems",
+      "Electricity demand"
+    ],
+    "right": [
+      "Digital convenience",
+      "Large energy footprint",
+      "Need for efficiency"
+    ],
+    "explanation": "This pathway helps students realise that invisible digital systems still depend on physical energy infrastructure.",
+    "challenge": "Why do many people underestimate the energy behind everyday digital activities?"
+  }
+]

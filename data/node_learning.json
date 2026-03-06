@@ -1,0 +1,218 @@
+{
+  "Sun": {
+    "what": "The star that provides most of the energy driving Earth systems.",
+    "why": "It powers climate, ecosystems and many renewable technologies."
+  },
+  "Solar radiation": {
+    "what": "Energy from the sun moving as electromagnetic waves.",
+    "why": "It is the starting point for solar technologies and photosynthesis."
+  },
+  "Solar panels": {
+    "what": "Devices that convert sunlight into electricity.",
+    "why": "They provide renewable electricity without direct fuel combustion."
+  },
+  "Photovoltaics": {
+    "what": "The process that converts light into electrical energy in solar cells.",
+    "why": "It explains how sunlight becomes electricity."
+  },
+  "Electricity generation": {
+    "what": "The production of electrical power from energy sources.",
+    "why": "It powers modern homes, schools, hospitals and industries."
+  },
+  "Electricity grid": {
+    "what": "The network that transports electricity from producers to users.",
+    "why": "Without grids, generated electricity cannot reach most people reliably."
+  },
+  "Homes": {
+    "what": "Buildings that use electricity for lighting, cooling, appliances and digital devices.",
+    "why": "Homes make energy systems visible in daily life."
+  },
+  "Lower carbon emissions": {
+    "what": "Reduced release of greenhouse gases from energy use.",
+    "why": "It helps slow climate change and improve long-term sustainability."
+  },
+  "Wind": {
+    "what": "Moving air created by differences in heating and pressure.",
+    "why": "It is a renewable energy source that can be converted into electricity."
+  },
+  "Kinetic energy": {
+    "what": "The energy of motion.",
+    "why": "It helps students understand how movement can become useful power."
+  },
+  "Wind turbines": {
+    "what": "Machines that turn wind energy into mechanical motion.",
+    "why": "They connect natural airflow to electricity generation."
+  },
+  "Generators": {
+    "what": "Devices that convert mechanical energy into electrical energy.",
+    "why": "They are central to many power systems, from wind to hydro."
+  },
+  "Urban electricity use": {
+    "what": "Electricity consumed in cities for buildings, transport and infrastructure.",
+    "why": "Cities concentrate demand and reveal how critical energy planning is."
+  },
+  "Reduced emissions": {
+    "what": "A decrease in harmful pollutants and greenhouse gases.",
+    "why": "It is one sign that energy systems are becoming more sustainable."
+  },
+  "Coal": {
+    "what": "A fossil fuel formed from ancient organic matter.",
+    "why": "It has powered development but also produces major emissions when burned."
+  },
+  "Chemical energy": {
+    "what": "Energy stored in chemical bonds.",
+    "why": "It helps explain how fuels release energy through combustion."
+  },
+  "Coal power plant": {
+    "what": "A facility that burns coal to generate electricity.",
+    "why": "It illustrates how fossil fuel systems connect energy supply to climate impacts."
+  },
+  "Combustion": {
+    "what": "A chemical reaction that releases energy, usually as heat.",
+    "why": "It is central to many traditional energy systems and emissions."
+  },
+  "Carbon emissions": {
+    "what": "The release of carbon dioxide and related greenhouse gases.",
+    "why": "They are strongly linked to climate change."
+  },
+  "Greenhouse effect": {
+    "what": "The trapping of heat in Earth's atmosphere by certain gases.",
+    "why": "It explains why rising emissions warm the planet."
+  },
+  "Climate change": {
+    "what": "Long-term changes in climate driven strongly today by human activities.",
+    "why": "It connects energy choices to real environmental and social consequences."
+  },
+  "Solar energy": {
+    "what": "Energy from sunlight that can be converted into useful forms.",
+    "why": "It is a major renewable resource."
+  },
+  "Battery storage": {
+    "what": "Stored electrical energy that can be used later.",
+    "why": "It helps renewable systems become more reliable."
+  },
+  "Stored electricity": {
+    "what": "Electricity kept for later use through storage systems.",
+    "why": "It allows supply and demand to be better matched."
+  },
+  "Demand balancing": {
+    "what": "Managing when electricity is supplied and used.",
+    "why": "It helps prevent waste and improve grid performance."
+  },
+  "Reliable supply": {
+    "what": "Consistent access to electricity when needed.",
+    "why": "It is essential for households, health systems and economies."
+  },
+  "Grid stability": {
+    "what": "The ability of the grid to keep electricity flowing smoothly and safely.",
+    "why": "Stable grids are essential when energy sources are variable."
+  },
+  "Energy transition": {
+    "what": "The shift from high-carbon systems to more sustainable energy systems.",
+    "why": "It is one of the biggest challenges and opportunities of this century."
+  },
+  "Photosynthesis": {
+    "what": "The process by which plants turn sunlight into chemical energy.",
+    "why": "It is how solar energy enters ecosystems."
+  },
+  "Plant growth": {
+    "what": "The development of plants using energy and materials from the environment.",
+    "why": "It stores energy that supports wider food systems."
+  },
+  "Stored chemical energy": {
+    "what": "Energy stored in molecules produced by living or non-living systems.",
+    "why": "It helps explain food chains and fuels."
+  },
+  "Food chains": {
+    "what": "Sequences showing how energy moves through organisms.",
+    "why": "They show that energy is transferred and reduced across trophic levels."
+  },
+  "Ecosystem energy flow": {
+    "what": "The movement of energy through natural systems.",
+    "why": "It connects ecology, sustainability and energy literacy."
+  },
+  "Life on Earth": {
+    "what": "Living systems supported by energy flows and cycles.",
+    "why": "It emphasises the importance of energy beyond technology."
+  },
+  "Electricity": {
+    "what": "A versatile form of energy that powers many technologies.",
+    "why": "It links production, infrastructure and daily use."
+  },
+  "Battery materials": {
+    "what": "Materials such as lithium, nickel and graphite used in batteries.",
+    "why": "They connect clean technology to mining, supply chains and recycling."
+  },
+  "Electric vehicles": {
+    "what": "Vehicles powered fully or partly by electricity.",
+    "why": "They can reduce emissions and air pollution when paired with cleaner grids."
+  },
+  "Charging systems": {
+    "what": "Infrastructure that delivers electricity to electric vehicles.",
+    "why": "They show that transport transition depends on wider systems."
+  },
+  "Transport energy": {
+    "what": "Energy used to move people and goods.",
+    "why": "Transport is a major part of modern energy demand."
+  },
+  "Lower air pollution": {
+    "what": "A reduction in harmful pollutants in the air.",
+    "why": "It improves public health and quality of life."
+  },
+  "Depends on cleaner grids": {
+    "what": "The idea that some technologies are only truly sustainable when electricity sources also improve.",
+    "why": "It teaches systems thinking rather than isolated solutions."
+  },
+  "Energy demand": {
+    "what": "The amount of energy needed by a system or community.",
+    "why": "Understanding demand is essential for planning sustainable systems."
+  },
+  "Building use": {
+    "what": "How buildings consume energy through lighting, cooling, equipment and occupancy.",
+    "why": "It connects sustainability to places students know well."
+  },
+  "Energy efficiency": {
+    "what": "Achieving the same service with less energy.",
+    "why": "It is one of the fastest ways to reduce emissions and costs."
+  },
+  "Smart monitoring": {
+    "what": "Using data and sensors to track and manage energy use.",
+    "why": "It helps users make better decisions about energy systems."
+  },
+  "Lower bills": {
+    "what": "Reduced spending on energy.",
+    "why": "It links sustainability to practical benefits."
+  },
+  "Student action": {
+    "what": "Learner participation in identifying and improving systems.",
+    "why": "It builds student agency and ownership."
+  },
+  "Internet use": {
+    "what": "Digital activity that depends on connected devices and online services.",
+    "why": "It seems invisible but still requires energy."
+  },
+  "Cloud services": {
+    "what": "Online computing and storage systems hosted in remote infrastructure.",
+    "why": "They connect digital behaviour to real physical energy use."
+  },
+  "Data centres": {
+    "what": "Facilities that store, process and transmit digital information.",
+    "why": "They are a major and often unseen source of electricity demand."
+  },
+  "Cooling systems": {
+    "what": "Systems that remove unwanted heat.",
+    "why": "They show how energy use creates further energy needs."
+  },
+  "Digital convenience": {
+    "what": "Ease and speed created by digital systems.",
+    "why": "It is useful, but it also has an energy cost."
+  },
+  "Large energy footprint": {
+    "what": "A high level of energy demand linked to a product, service or system.",
+    "why": "It encourages students to look beyond what is visible."
+  },
+  "Need for efficiency": {
+    "what": "The requirement to reduce wasted energy while keeping services useful.",
+    "why": "It shows why sustainability often starts with using energy better."
+  }
+}
