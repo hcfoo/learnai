@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Container from "@/components/Container";
-import GlassCard from "@/components/GlassCard";
+import Card from "@/components/Card";
 import { getPathways } from "@/lib/data";
 
 export default function PathwaysPage() {
@@ -9,17 +9,19 @@ export default function PathwaysPage() {
     <main>
       <Container>
         <div className="py-10">
-          <h1 className="text-4xl font-semibold tracking-tight text-white">Pathway explorer</h1>
-          <p className="mt-3 max-w-3xl leading-relaxed text-slate-300">These curated maps help students follow how energy moves through systems, technologies and outcomes.</p>
+          <h1 className="text-4xl font-semibold tracking-tight text-slate-900">Pathway explorer</h1>
+          <p className="mt-3 max-w-3xl leading-relaxed text-slate-700">
+            Use pathways to help students see inputs, processes and outcomes in a clean systems-thinking format.
+          </p>
           <div className="mt-8 grid gap-4 lg:grid-cols-2">
             {pathways.map((pathway) => (
-              <GlassCard key={pathway.slug}>
+              <Card key={pathway.slug}>
                 <Link href={`/pathways/${pathway.slug}`} className="block p-6">
-                  <div className="text-lg font-semibold text-white">{pathway.title}</div>
-                  <div className="mt-2 text-sm text-cyan-200">{pathway.question}</div>
-                  <div className="mt-3 text-sm leading-relaxed text-slate-300">{pathway.explanation}</div>
+                  <div className="text-lg font-semibold text-slate-900">{pathway.title}</div>
+                  <div className="mt-2 text-sm text-sky-700">{pathway.question}</div>
+                  <div className="mt-3 text-sm leading-relaxed text-slate-700">{pathway.explanation}</div>
                 </Link>
-              </GlassCard>
+              </Card>
             ))}
           </div>
         </div>

@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "energy-basics",
+    "title": "Energy Basics",
+    "summary": "Understand what energy is, how it changes form and why systems lose useful energy.",
+    "essentialQuestion": "How does energy behave in natural and human-made systems?",
+    "steps": [
+      "Energy Systems and Sustainability",
+      "Forms of Energy",
+      "Energy Transfer",
+      "Energy Conversion",
+      "Energy Efficiency"
+    ]
+  },
+  {
+    "slug": "energy-in-nature",
+    "title": "Energy in Nature",
+    "summary": "See how solar energy enters ecosystems and supports life on Earth.",
+    "essentialQuestion": "How does energy enter and move through natural systems?",
+    "steps": [
+      "Solar Radiation",
+      "Photosynthesis",
+      "Plant Growth",
+      "Food Chains",
+      "Ecosystem Energy Flow"
+    ]
+  },
+  {
+    "slug": "energy-in-society",
+    "title": "Energy in Society",
+    "summary": "Explore how electricity, fuels and infrastructure support daily life.",
+    "essentialQuestion": "How do societies produce, distribute and use energy?",
+    "steps": [
+      "Electricity Generation",
+      "Electricity Grid",
+      "Homes",
+      "Transport Energy",
+      "Digital Energy Use"
+    ]
+  },
+  {
+    "slug": "energy-and-climate",
+    "title": "Energy and Climate",
+    "summary": "Connect fossil fuel use to emissions, the greenhouse effect and climate change.",
+    "essentialQuestion": "Why do energy choices affect climate and sustainability?",
+    "steps": [
+      "Coal",
+      "Combustion",
+      "Carbon Emissions",
+      "Greenhouse Effect",
+      "Climate Change"
+    ]
+  },
+  {
+    "slug": "sustainable-solutions",
+    "title": "Sustainable Solutions",
+    "summary": "Explore renewable energy, storage, efficiency and smarter systems.",
+    "essentialQuestion": "What does a more sustainable energy system look like?",
+    "steps": [
+      "Solar Panels",
+      "Wind Turbines",
+      "Battery Storage",
+      "Energy Efficiency",
+      "Energy Transition"
+    ]
+  }
+]

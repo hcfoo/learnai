@@ -3,8 +3,8 @@ import type { ReactNode } from "react";
 import TopBar from "@/components/TopBar";
 
 export const metadata = {
-  title: "Energy Pathway Map",
-  description: "A systems-thinking app for learning energy systems and sustainability."
+  title: "Energy Learning Tool",
+  description: "A clean learning tool for energy systems and sustainability."
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
