@@ -4,7 +4,7 @@ export default function Section({ title, children }: { title: string; children: 
   return (
     <section className="mt-6">
       <div className="text-xs font-semibold uppercase tracking-wide text-neutral-500">{title}</div>
-      <div className="mt-2 text-neutral-800 leading-relaxed">{children}</div>
+      <div className="mt-2 leading-relaxed text-neutral-800">{children}</div>
     </section>
   );
 }

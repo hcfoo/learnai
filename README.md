@@ -1,20 +1,16 @@
-# Energy Knowledge Map (Notion style UI)
+# Energy Knowledge Map, updated
 
-A Next.js app with a clean, Notion inspired interface for exploring a 1001 node knowledge graph.
+This version includes the fixed TypeScript path alias configuration for `@/*`.
 
-## Run locally
+## Deploy steps
+1. Unzip this folder
+2. Upload the contents to GitHub
+3. Make sure `package.json` is at the repository root
+4. Import the repo into Vercel
+5. Deploy
 
-npm install
-npm run dev
-
-Open http://localhost:3000
-
-## Deploy on Vercel
-
-Upload this folder to GitHub (ensure package.json is at the repository root), then import the repo in Vercel and deploy.
-
-## Data
-
-data/energy_knowledge_graph_1001_nodes.json
-
-Fill explanation, example and question fields over time.
+## Key folders
+- app
+- components
+- data
+- lib

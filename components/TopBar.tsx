@@ -1,5 +1,5 @@
 import Link from "next/link";
-import Container from "./Container";
+import Container from "@/components/Container";
 
 export default function TopBar() {
   return (
@@ -12,8 +12,12 @@ export default function TopBar() {
           </Link>
 
           <nav className="flex items-center gap-3 text-sm">
-            <Link className="rounded-lg px-3 py-2 text-neutral-700 hover:bg-neutral-100" href="/explore">Explore</Link>
-            <Link className="rounded-lg px-3 py-2 text-neutral-700 hover:bg-neutral-100" href="/about">About</Link>
+            <Link className="rounded-lg px-3 py-2 text-neutral-700 hover:bg-neutral-100" href="/explore">
+              Explore
+            </Link>
+            <Link className="rounded-lg px-3 py-2 text-neutral-700 hover:bg-neutral-100" href="/about">
+              About
+            </Link>
           </nav>
         </div>
       </Container>

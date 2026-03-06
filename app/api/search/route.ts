@@ -5,17 +5,18 @@ export async function GET(req: Request) {
   const { searchParams } = new URL(req.url);
   const q = (searchParams.get("q") || "").trim().toLowerCase();
 
-  const all = nodes as any[];
-  if (!q) return NextResponse.json([]);
+  if (!q) {
+    return NextResponse.json([]);
+  }
 
-  const results = all
-    .filter(n =>
+  const results = (nodes as any[])
+    .filter((n) =>
       String(n.title).toLowerCase().includes(q) ||
       String(n.domain).toLowerCase().includes(q) ||
       String(n.id).toLowerCase().includes(q)
     )
     .slice(0, 60)
-    .map(n => ({
+    .map((n) => ({
       id: n.id,
       title: n.title,
       domain: n.domain,
@@ -24,6 +25,8 @@ export async function GET(req: Request) {
     }));
 
   return NextResponse.json(results, {
-    headers: { "Cache-Control": "public, max-age=300" }
+    headers: {
+      "Cache-Control": "public, max-age=300"
+    }
   });
 }

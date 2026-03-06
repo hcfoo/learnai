@@ -14,7 +14,7 @@ export type GraphNode = {
 };
 
 const graph = nodes as GraphNode[];
-const byId = new Map<string, GraphNode>(graph.map(n => [n.id, n]));
+const byId = new Map<string, GraphNode>(graph.map((n) => [n.id, n]));
 
 export function getAllNodes() {
   return graph;
@@ -25,10 +25,12 @@ export function getNode(id: string) {
 }
 
 export function getDomainNodes() {
-  return graph.filter(n => n.level === 1);
+  return graph.filter((n) => n.level === 1);
 }
 
 export function getConnectionNodes(node: GraphNode, limit = 24) {
-  const ids = (node.connections || []).slice(0, limit);
-  return ids.map(id => byId.get(id)).filter(Boolean) as GraphNode[];
+  return (node.connections || [])
+    .slice(0, limit)
+    .map((id) => byId.get(id))
+    .filter(Boolean) as GraphNode[];
 }
