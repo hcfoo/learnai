@@ -20,7 +20,6 @@ export default function ExplorePage() {
 
   useEffect(() => {
     const query = q.trim();
-
     if (!query) {
       setResults([]);
       return;
@@ -38,7 +37,7 @@ export default function ExplorePage() {
   }, [q]);
 
   const hint = useMemo(() => {
-    if (!q.trim()) return "Try a keyword such as solar, entropy, battery or carbon.";
+    if (!q.trim()) return "Try a keyword such as solar, grid, climate, carbon or battery.";
     if (loading) return "Searching...";
     if (!results.length) return "No matches yet, try a shorter keyword.";
     return "";
@@ -49,11 +48,15 @@ export default function ExplorePage() {
       <Container>
         <div className="py-10">
           <div className="flex items-center justify-between gap-4">
-            <h1 className="text-2xl font-semibold">Explore</h1>
-            <Link className="text-sm text-neutral-600 hover:text-neutral-900" href="/">
-              Home
+            <h1 className="text-3xl font-semibold tracking-tight">Explore the full map</h1>
+            <Link className="text-sm text-neutral-600 hover:text-neutral-900" href="/journeys">
+              Journeys
             </Link>
           </div>
+
+          <p className="mt-3 max-w-2xl leading-relaxed text-neutral-600">
+            Use search when students are ready to move beyond the guided journeys and explore the wider knowledge graph.
+          </p>
 
           <div className="mt-5">
             <input

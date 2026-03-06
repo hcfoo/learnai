@@ -1,0 +1,462 @@
+[
+  {
+    "id": "energy-systems-and-sustainability",
+    "title": "Energy Systems and Sustainability",
+    "whatIsIt": "A way of understanding how energy is produced, transformed, distributed, used and managed in relation to environmental and social wellbeing.",
+    "whyItMatters": "Students need to see that energy is not only a science topic. It shapes climate, health, technology, transport, equity and the future of communities.",
+    "example": "A city that shifts from coal power to solar, storage and efficient buildings changes both its energy system and its environmental impact.",
+    "thinkAboutIt": "Why is a sustainable energy system about more than simply using renewable energy?",
+    "exploreNext": [
+      "forms-of-energy",
+      "energy-transfer",
+      "electricity-grids",
+      "climate-change",
+      "energy-transition"
+    ]
+  },
+  {
+    "id": "forms-of-energy",
+    "title": "Forms of Energy",
+    "whatIsIt": "The main ways energy appears in systems, such as light, heat, motion, chemical energy and electrical energy.",
+    "whyItMatters": "Students understand energy better when they can recognise that it changes form while still remaining part of the same system.",
+    "example": "A torch changes chemical energy in a battery into electrical energy and then into light and heat.",
+    "thinkAboutIt": "Why is it useful to identify the form of energy at each stage of a system?",
+    "exploreNext": [
+      "energy-transfer",
+      "energy-conversion",
+      "thermal-energy",
+      "electrical-energy",
+      "chemical-energy"
+    ]
+  },
+  {
+    "id": "energy-transfer",
+    "title": "Energy Transfer",
+    "whatIsIt": "The movement of energy from one object or system to another.",
+    "whyItMatters": "Energy systems only work when energy moves. Understanding transfer helps students explain heating, motion, electricity and system losses.",
+    "example": "When a kettle boils water, electrical energy is transferred into thermal energy.",
+    "thinkAboutIt": "Where does energy go when a system seems inefficient?",
+    "exploreNext": [
+      "energy-efficiency",
+      "heat-transfer-modes",
+      "energy-conversion",
+      "electricity-generation"
+    ]
+  },
+  {
+    "id": "energy-conversion",
+    "title": "Energy Conversion",
+    "whatIsIt": "The process of changing energy from one form into another.",
+    "whyItMatters": "Most real systems involve several conversions, and each stage may include useful output and losses.",
+    "example": "A wind turbine converts kinetic energy in moving air into electrical energy.",
+    "thinkAboutIt": "Why do energy conversions often produce unwanted heat?",
+    "exploreNext": [
+      "energy-efficiency",
+      "electricity-generation",
+      "wind-energy-systems",
+      "solar-energy-systems"
+    ]
+  },
+  {
+    "id": "energy-efficiency",
+    "title": "Energy Efficiency",
+    "whatIsIt": "A measure of how much input energy becomes useful output.",
+    "whyItMatters": "Efficiency helps students see that sustainability is not only about new energy sources, but also about using less energy for the same purpose.",
+    "example": "LED lights provide the same brightness as older bulbs while using less electricity.",
+    "thinkAboutIt": "Why can improving efficiency sometimes be easier than building new power stations?",
+    "exploreNext": [
+      "energy-losses",
+      "buildings-energy-use",
+      "industrial-energy",
+      "energy-transition"
+    ]
+  },
+  {
+    "id": "entropy",
+    "title": "Entropy",
+    "whatIsIt": "A concept in thermodynamics linked to disorder and the tendency for energy to become less available for useful work.",
+    "whyItMatters": "Entropy explains why perfectly efficient systems do not exist and why energy quality matters.",
+    "example": "A hot drink cools down naturally as energy spreads into the surrounding air.",
+    "thinkAboutIt": "Why is some energy still present in a system but no longer easy to use?",
+    "exploreNext": [
+      "second-law-thermodynamics",
+      "energy-efficiency",
+      "heat-engines"
+    ]
+  },
+  {
+    "id": "solar-radiation",
+    "title": "Solar Radiation",
+    "whatIsIt": "Energy emitted by the sun in the form of electromagnetic waves.",
+    "whyItMatters": "Solar radiation drives weather, climate, photosynthesis and most renewable energy systems on Earth.",
+    "example": "Plants capture solar energy during photosynthesis and solar panels convert part of it into electricity.",
+    "thinkAboutIt": "Why can the sun power both natural ecosystems and modern technology?",
+    "exploreNext": [
+      "photosynthesis",
+      "solar-energy-systems",
+      "climate-change"
+    ]
+  },
+  {
+    "id": "photosynthesis",
+    "title": "Photosynthesis",
+    "whatIsIt": "The process by which plants use sunlight, carbon dioxide and water to produce glucose and oxygen.",
+    "whyItMatters": "It shows how energy enters ecosystems and links energy systems to the carbon cycle and life on Earth.",
+    "example": "Green plants in a forest store solar energy in chemical form.",
+    "thinkAboutIt": "Why is photosynthesis one of the most important energy processes on Earth?",
+    "exploreNext": [
+      "ecosystem-energy-flow",
+      "carbon-cycle",
+      "solar-radiation",
+      "bioenergy-systems"
+    ]
+  },
+  {
+    "id": "ecosystem-energy-flow",
+    "title": "Ecosystem Energy Flow",
+    "whatIsIt": "The movement of energy through living systems from producers to consumers and decomposers.",
+    "whyItMatters": "Students see that ecosystems depend on constant energy flow and that energy is lost between trophic levels.",
+    "example": "Energy moves from grass to rabbits to foxes, with less useful energy available at each step.",
+    "thinkAboutIt": "Why are food chains usually short?",
+    "exploreNext": [
+      "food-chains",
+      "primary-productivity",
+      "photosynthesis",
+      "biomass-feedstocks"
+    ]
+  },
+  {
+    "id": "electricity-generation",
+    "title": "Electricity Generation",
+    "whatIsIt": "The process of producing electrical energy from primary energy sources such as coal, gas, sunlight, wind or water.",
+    "whyItMatters": "Electricity powers modern life, so students need to understand where it comes from and how it is produced.",
+    "example": "A power station may use steam to turn turbines connected to a generator.",
+    "thinkAboutIt": "Why is electricity so useful compared with many other forms of energy?",
+    "exploreNext": [
+      "power-plants",
+      "electricity-grids",
+      "renewable-energy",
+      "fossil-fuel-energy"
+    ]
+  },
+  {
+    "id": "power-plants",
+    "title": "Power Plants",
+    "whatIsIt": "Facilities that convert primary energy into electrical power at scale.",
+    "whyItMatters": "They help students connect science concepts to real infrastructure and understand trade-offs between different generation methods.",
+    "example": "Coal plants, gas plants, hydro stations and solar farms are all power generation systems.",
+    "thinkAboutIt": "Why do different power plants have different environmental impacts?",
+    "exploreNext": [
+      "fossil-fuel-energy",
+      "solar-energy-systems",
+      "wind-energy-systems",
+      "hydropower-systems"
+    ]
+  },
+  {
+    "id": "electricity-grids",
+    "title": "Electricity Grids",
+    "whatIsIt": "Networks that transport electricity from producers to users through transmission and distribution systems.",
+    "whyItMatters": "Students often know where electricity is used but not how it reaches them. The grid makes the energy system visible.",
+    "example": "Electricity generated at a power plant travels through high-voltage lines before reaching homes and schools.",
+    "thinkAboutIt": "Why is the grid essential even when a place has its own solar panels?",
+    "exploreNext": [
+      "transmission-systems",
+      "distribution-networks",
+      "smart-grids",
+      "energy-storage-networks"
+    ]
+  },
+  {
+    "id": "energy-consumption",
+    "title": "Energy Consumption",
+    "whatIsIt": "The use of energy by households, transport, industry, agriculture and digital systems.",
+    "whyItMatters": "Demand shapes the whole energy system. Students need to see that sustainability involves changing how energy is used as well as how it is produced.",
+    "example": "Air conditioning, internet services, factories and transport all contribute to total energy demand.",
+    "thinkAboutIt": "Why does reducing demand matter as much as changing supply?",
+    "exploreNext": [
+      "buildings-energy-use",
+      "transport-energy",
+      "industrial-energy",
+      "digital-energy"
+    ]
+  },
+  {
+    "id": "fossil-fuel-energy",
+    "title": "Fossil Fuel Energy",
+    "whatIsIt": "Energy obtained from coal, oil and natural gas formed from ancient organic matter.",
+    "whyItMatters": "Fossil fuels have powered industrial development, but their combustion releases greenhouse gases and pollutants.",
+    "example": "Petrol cars and many thermal power plants rely on fossil fuels.",
+    "thinkAboutIt": "Why do societies still depend on fossil fuels even though cleaner alternatives exist?",
+    "exploreNext": [
+      "carbon-emissions",
+      "air-pollution",
+      "energy-transition",
+      "renewable-energy"
+    ]
+  },
+  {
+    "id": "carbon-cycle",
+    "title": "Carbon Cycle",
+    "whatIsIt": "The movement of carbon through the atmosphere, living things, oceans and soils.",
+    "whyItMatters": "The carbon cycle links energy systems, ecosystems and climate change.",
+    "example": "Plants absorb carbon dioxide during photosynthesis, while combustion releases it back into the atmosphere.",
+    "thinkAboutIt": "How does burning fossil fuels disrupt the natural balance of the carbon cycle?",
+    "exploreNext": [
+      "carbon-emissions",
+      "greenhouse-effect",
+      "photosynthesis",
+      "climate-change"
+    ]
+  },
+  {
+    "id": "carbon-emissions",
+    "title": "Carbon Emissions",
+    "whatIsIt": "The release of carbon dioxide and other greenhouse gases into the atmosphere, especially from energy use.",
+    "whyItMatters": "Carbon emissions are one of the clearest links between energy systems and global environmental change.",
+    "example": "Driving a petrol car releases carbon dioxide because fuel combustion produces greenhouse gases.",
+    "thinkAboutIt": "Why are emissions often treated as a system problem rather than only an individual problem?",
+    "exploreNext": [
+      "greenhouse-effect",
+      "climate-change",
+      "energy-transition",
+      "renewable-energy"
+    ]
+  },
+  {
+    "id": "greenhouse-effect",
+    "title": "Greenhouse Effect",
+    "whatIsIt": "A natural process in which certain gases trap heat in Earth's atmosphere.",
+    "whyItMatters": "Students need to understand the greenhouse effect before they can explain climate change.",
+    "example": "Without the greenhouse effect, Earth would be much too cold for most current life forms.",
+    "thinkAboutIt": "Why does a natural process become a problem when greenhouse gas levels rise too much?",
+    "exploreNext": [
+      "climate-change",
+      "carbon-emissions",
+      "radiative-forcing"
+    ]
+  },
+  {
+    "id": "climate-change",
+    "title": "Climate Change",
+    "whatIsIt": "Long-term changes in Earth's climate system driven strongly today by human greenhouse gas emissions.",
+    "whyItMatters": "It shows students why energy systems matter beyond science classrooms, because climate affects health, biodiversity, food and livelihoods.",
+    "example": "More frequent extreme heat and intense weather events are linked to climate change.",
+    "thinkAboutIt": "Why does solving climate change require both technological and social change?",
+    "exploreNext": [
+      "energy-transition",
+      "renewable-energy",
+      "energy-efficiency",
+      "sustainable-energy-systems"
+    ]
+  },
+  {
+    "id": "renewable-energy",
+    "title": "Renewable Energy",
+    "whatIsIt": "Energy from sources that are naturally replenished, such as sunlight, wind, moving water, biomass and geothermal heat.",
+    "whyItMatters": "Renewables can reduce dependence on fossil fuels, but they also require infrastructure, storage and planning.",
+    "example": "Solar farms and wind turbines generate electricity without burning fuel.",
+    "thinkAboutIt": "Why does renewable energy still need strong systems and policies to work well?",
+    "exploreNext": [
+      "solar-energy-systems",
+      "wind-energy-systems",
+      "hydropower-systems",
+      "energy-storage"
+    ]
+  },
+  {
+    "id": "solar-energy-systems",
+    "title": "Solar Energy Systems",
+    "whatIsIt": "Technologies that capture sunlight to produce electricity or heat.",
+    "whyItMatters": "Solar energy is one of the most visible renewable systems and helps students connect sunlight to practical energy solutions.",
+    "example": "Rooftop solar panels can help a school produce some of its own electricity.",
+    "thinkAboutIt": "Why does solar energy often need storage or grid support?",
+    "exploreNext": [
+      "photovoltaics",
+      "energy-storage",
+      "electricity-grids",
+      "renewable-energy"
+    ]
+  },
+  {
+    "id": "wind-energy-systems",
+    "title": "Wind Energy Systems",
+    "whatIsIt": "Technologies that convert the kinetic energy of moving air into electricity.",
+    "whyItMatters": "Wind systems show how natural motion can become useful electrical power at scale.",
+    "example": "Wind farms use turbines to drive generators when air moves across the blades.",
+    "thinkAboutIt": "Why is wind energy strong in some places and less suitable in others?",
+    "exploreNext": [
+      "wind-resource",
+      "turbine-aerodynamics",
+      "renewable-energy",
+      "energy-storage"
+    ]
+  },
+  {
+    "id": "hydropower-systems",
+    "title": "Hydropower Systems",
+    "whatIsIt": "Energy systems that convert the energy of moving or falling water into electricity.",
+    "whyItMatters": "Hydropower helps students see that renewable systems can be reliable and large-scale, but also have environmental trade-offs.",
+    "example": "A hydroelectric dam uses flowing water to turn turbines connected to generators.",
+    "thinkAboutIt": "Why can hydropower be both a renewable solution and an environmental challenge?",
+    "exploreNext": [
+      "hydrology-basics",
+      "turbines-in-hydro",
+      "renewable-energy"
+    ]
+  },
+  {
+    "id": "bioenergy-systems",
+    "title": "Bioenergy Systems",
+    "whatIsIt": "Energy systems that use biological material such as crops, waste or plant matter as fuel.",
+    "whyItMatters": "Bioenergy links energy, agriculture, land use and the carbon cycle.",
+    "example": "Biogas can be produced from food waste or organic waste streams.",
+    "thinkAboutIt": "When is bioenergy sustainable, and when might it create new problems?",
+    "exploreNext": [
+      "biomass-feedstocks",
+      "biogas",
+      "carbon-cycle",
+      "sustainable-bioenergy"
+    ]
+  },
+  {
+    "id": "energy-storage",
+    "title": "Energy Storage",
+    "whatIsIt": "The capture of energy for use at a later time.",
+    "whyItMatters": "Storage helps balance supply and demand, especially when renewable sources are variable.",
+    "example": "A battery stores solar electricity produced during the day for later use at night.",
+    "thinkAboutIt": "Why is storage so important in renewable energy systems?",
+    "exploreNext": [
+      "batteries",
+      "grid-batteries",
+      "smart-grids",
+      "renewable-energy"
+    ]
+  },
+  {
+    "id": "batteries",
+    "title": "Batteries",
+    "whatIsIt": "Devices that store chemical energy and convert it into electrical energy when needed.",
+    "whyItMatters": "Batteries are central to portable electronics, electric vehicles and many renewable energy systems.",
+    "example": "A home battery can store electricity from rooftop solar panels.",
+    "thinkAboutIt": "Why are batteries useful, but not the only answer to energy storage?",
+    "exploreNext": [
+      "lithium-ion",
+      "battery-recycling",
+      "electric-vehicles",
+      "energy-storage"
+    ]
+  },
+  {
+    "id": "smart-grids",
+    "title": "Smart Grids",
+    "whatIsIt": "Electricity networks that use digital technologies to monitor, manage and optimise energy flow.",
+    "whyItMatters": "Smart grids show students that future energy systems rely on information as well as electricity.",
+    "example": "A smart grid can respond to demand peaks and coordinate distributed solar and battery storage.",
+    "thinkAboutIt": "Why do complex energy systems need data and intelligent control?",
+    "exploreNext": [
+      "electricity-grids",
+      "energy-storage",
+      "distributed-generation",
+      "ai-energy-systems"
+    ]
+  },
+  {
+    "id": "electric-vehicles",
+    "title": "Electric Vehicles",
+    "whatIsIt": "Vehicles powered partly or fully by electricity stored in batteries.",
+    "whyItMatters": "They help students connect transport energy use to wider energy transitions, infrastructure and emissions reduction.",
+    "example": "An electric bus may reduce urban air pollution if charged from a cleaner electricity supply.",
+    "thinkAboutIt": "Why do electric vehicles only become truly low-carbon when the wider energy system also changes?",
+    "exploreNext": [
+      "transport-energy",
+      "batteries",
+      "electricity-grids",
+      "energy-transition"
+    ]
+  },
+  {
+    "id": "energy-transition",
+    "title": "Energy Transition",
+    "whatIsIt": "The shift from high-carbon energy systems to cleaner, more sustainable systems.",
+    "whyItMatters": "This concept brings together science, policy, infrastructure, economics and behaviour change.",
+    "example": "A country may retire coal plants while investing in solar, wind, storage and grid upgrades.",
+    "thinkAboutIt": "Why is the energy transition both a technical and a social challenge?",
+    "exploreNext": [
+      "renewable-energy",
+      "energy-efficiency",
+      "climate-change",
+      "sustainable-energy-systems"
+    ]
+  },
+  {
+    "id": "sustainable-energy-systems",
+    "title": "Sustainable Energy Systems",
+    "whatIsIt": "Energy systems designed to meet present needs without undermining environmental stability, social wellbeing or future generations.",
+    "whyItMatters": "This is the big picture goal that connects all the other concepts students learn.",
+    "example": "A sustainable energy system may combine renewable power, efficient buildings, public transport and circular material use.",
+    "thinkAboutIt": "What would a truly sustainable energy system need besides clean electricity?",
+    "exploreNext": [
+      "energy-transition",
+      "smart-grids",
+      "energy-efficiency",
+      "circular-economy"
+    ]
+  },
+  {
+    "id": "buildings-energy-use",
+    "title": "Buildings Energy Use",
+    "whatIsIt": "Energy consumed in buildings for heating, cooling, lighting, appliances and other services.",
+    "whyItMatters": "Students can relate this concept directly to homes and schools, making the topic immediate and practical.",
+    "example": "Better insulation and efficient air conditioning can reduce a building's energy demand.",
+    "thinkAboutIt": "Why can energy efficiency in buildings have such a large effect on sustainability?",
+    "exploreNext": [
+      "energy-efficiency",
+      "lighting",
+      "heating-and-cooling",
+      "energy-consumption"
+    ]
+  },
+  {
+    "id": "transport-energy",
+    "title": "Transport Energy",
+    "whatIsIt": "Energy used to move people and goods by road, rail, air and sea.",
+    "whyItMatters": "Transport is one of the clearest ways students see energy use in daily life, and it is a major source of emissions in many places.",
+    "example": "Cars, buses, trains and planes each rely on different fuels and systems.",
+    "thinkAboutIt": "Why is changing transport energy systems often harder than changing one individual vehicle?",
+    "exploreNext": [
+      "electric-vehicles",
+      "fossil-fuel-energy",
+      "carbon-emissions",
+      "energy-transition"
+    ]
+  },
+  {
+    "id": "industrial-energy",
+    "title": "Industrial Energy",
+    "whatIsIt": "Energy used in manufacturing, processing, mining and other industrial activities.",
+    "whyItMatters": "Industry often requires large amounts of energy and high-temperature heat, making decarbonisation more challenging.",
+    "example": "Steel and cement production use energy-intensive processes.",
+    "thinkAboutIt": "Why are some parts of industry harder to decarbonise than homes or offices?",
+    "exploreNext": [
+      "process-heat",
+      "energy-efficiency",
+      "electricity-generation",
+      "energy-transition"
+    ]
+  },
+  {
+    "id": "digital-energy",
+    "title": "Digital Energy",
+    "whatIsIt": "Energy used by digital devices, networks, data centres and online systems.",
+    "whyItMatters": "Students often underestimate how much energy supports digital life, from streaming to cloud computing.",
+    "example": "Data centres require electricity for both computing and cooling.",
+    "thinkAboutIt": "Why does invisible digital infrastructure still have a physical energy footprint?",
+    "exploreNext": [
+      "data-centres",
+      "device-energy-use",
+      "energy-consumption",
+      "energy-efficiency"
+    ]
+  }
+]

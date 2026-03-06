@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "energy-basics",
+    "title": "Journey 1: Understanding Energy",
+    "goal": "Students understand what energy is, how it changes form, how it moves through systems and why useful energy is often lost.",
+    "essentialQuestion": "How does energy behave in natural and human-made systems?",
+    "nodes": [
+      "energy-systems-and-sustainability",
+      "forms-of-energy",
+      "energy-transfer",
+      "energy-conversion",
+      "energy-efficiency",
+      "entropy"
+    ],
+    "challenge": "Trace the energy changes in a device you use every day, then identify where useful energy appears and where energy is lost."
+  },
+  {
+    "slug": "energy-in-nature",
+    "title": "Journey 2: Energy in Natural Systems",
+    "goal": "Students see how solar energy drives ecosystems and how energy flows through living systems.",
+    "essentialQuestion": "How does energy enter and move through the natural world?",
+    "nodes": [
+      "solar-radiation",
+      "photosynthesis",
+      "ecosystem-energy-flow",
+      "bioenergy-systems",
+      "carbon-cycle"
+    ],
+    "challenge": "Create a short explanation showing how sunlight eventually becomes energy available to animals and humans."
+  },
+  {
+    "slug": "energy-in-society",
+    "title": "Journey 3: Energy in Human Society",
+    "goal": "Students understand how electricity and fuel systems support modern life through generation, grids and demand.",
+    "essentialQuestion": "How do societies produce, distribute and use energy?",
+    "nodes": [
+      "electricity-generation",
+      "power-plants",
+      "electricity-grids",
+      "energy-consumption",
+      "buildings-energy-use",
+      "transport-energy",
+      "industrial-energy",
+      "digital-energy"
+    ],
+    "challenge": "Choose one place such as a school, hospital or shopping centre and explain how it depends on multiple energy systems at once."
+  },
+  {
+    "slug": "energy-and-climate",
+    "title": "Journey 4: Energy and Environmental Impact",
+    "goal": "Students connect energy systems to the carbon cycle, greenhouse effect and climate change.",
+    "essentialQuestion": "Why do energy choices affect climate and sustainability?",
+    "nodes": [
+      "fossil-fuel-energy",
+      "carbon-cycle",
+      "carbon-emissions",
+      "greenhouse-effect",
+      "climate-change"
+    ],
+    "challenge": "Build a cause-and-effect chain that explains how burning fossil fuels contributes to climate change."
+  },
+  {
+    "slug": "renewable-solutions",
+    "title": "Journey 5: Renewable Energy and Future Systems",
+    "goal": "Students explore cleaner energy options and understand why future systems need storage, smart grids and system-wide change.",
+    "essentialQuestion": "What does a more sustainable energy system look like?",
+    "nodes": [
+      "renewable-energy",
+      "solar-energy-systems",
+      "wind-energy-systems",
+      "hydropower-systems",
+      "bioenergy-systems",
+      "energy-storage",
+      "batteries",
+      "smart-grids",
+      "electric-vehicles",
+      "energy-transition",
+      "sustainable-energy-systems"
+    ],
+    "challenge": "Design a more sustainable energy plan for a school or neighbourhood using at least three connected solutions."
+  }
+]

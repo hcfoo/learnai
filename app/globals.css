@@ -2,19 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  color-scheme: light;
-}
-
-html, body {
-  height: 100%;
-}
-
-body {
-  background: #fafafa;
-  color: #171717;
-}
-
-::selection {
-  background: rgba(0, 0, 0, 0.08);
-}
+:root { color-scheme: light; }
+html, body { height: 100%; }
+body { background: #fafafa; color: #171717; }
+::selection { background: rgba(0,0,0,0.08); }

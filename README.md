@@ -1,16 +1,19 @@
-# Energy Knowledge Map, updated
+# Energy Learning Map, guided version
 
-This version includes the fixed TypeScript path alias configuration for `@/*`.
+A Next.js app with:
+- 5 guided learning journeys
+- curated core learning node content
+- a deeper 1001-node energy knowledge graph
+- a clean Notion-like UI
 
-## Deploy steps
+## Deploy
 1. Unzip this folder
 2. Upload the contents to GitHub
-3. Make sure `package.json` is at the repository root
+3. Make sure package.json is at the repository root
 4. Import the repo into Vercel
 5. Deploy
 
-## Key folders
-- app
-- components
-- data
-- lib
+## Key data files
+- data/energy_knowledge_graph_1001_nodes.json
+- data/core_learning_nodes.json
+- data/learning_journeys.json

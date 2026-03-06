@@ -5,9 +5,7 @@ export async function GET(req: Request) {
   const { searchParams } = new URL(req.url);
   const q = (searchParams.get("q") || "").trim().toLowerCase();
 
-  if (!q) {
-    return NextResponse.json([]);
-  }
+  if (!q) return NextResponse.json([]);
 
   const results = (nodes as any[])
     .filter((n) =>
@@ -25,8 +23,6 @@ export async function GET(req: Request) {
     }));
 
   return NextResponse.json(results, {
-    headers: {
-      "Cache-Control": "public, max-age=300"
-    }
+    headers: { "Cache-Control": "public, max-age=300" }
   });
 }
